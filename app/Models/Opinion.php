@@ -16,3 +16,6 @@ class Opinion extends Model
        'opinion'
     ];
 }
+
+
+asdasdasdasd
